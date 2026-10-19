@@ -4,7 +4,7 @@
 -- Date: [Current Date]
 -- Description: Core queries executing business logic on the Kaggle Retail dataset.
 --              Covers data definition, retrieval, aggregation, joins, and subqueries.
--- Data Source: 
+-- Data Source: https://github.com/rojakaranam1996-gif/retail-sales-sql-analysis/blob/main/retail_sales_dataset.csv
 -------------------------------------------------------------------------------
 
 -- Phase 1: Data Definition (The Setup)
