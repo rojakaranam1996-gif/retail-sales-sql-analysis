@@ -67,3 +67,10 @@ SELECT
 FROM retailsales
 GROUP BY transaction_date
 HAVING COUNT(transactionid) > 10;
+
+-- Phase 4, Question 6: Retrieving transactions that are higher than the overall average
+SELECT 
+    transactionid, 
+    totalamount 
+FROM retailsales
+WHERE totalamount > (SELECT AVG(totalamount) FROM retailsales);
