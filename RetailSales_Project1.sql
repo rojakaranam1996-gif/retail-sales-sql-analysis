@@ -1,7 +1,7 @@
 -------------------------------------------------------------------------------
 -- Project: Retail Sales Data Analysis
--- Author: [Your Name]
--- Date: [Current Date]
+-- Author: Karanam Roja
+-- Date: 19/10/2026
 -- Description: Core queries executing business logic on the Kaggle Retail dataset.
 --              Covers data definition, retrieval, aggregation, joins, and subqueries.
 -- Data Source: https://github.com/rojakaranam1996-gif/retail-sales-sql-analysis/blob/main/retail_sales_dataset.csv
