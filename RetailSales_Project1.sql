@@ -1,1 +1,11 @@
+-------------------------------------------------------------------------------
+-- Project: Retail Sales Data Analysis
+-- Author: [Your Name]
+-- Date: [Current Date]
+-- Description: Core queries executing business logic on the Kaggle Retail dataset.
+--              Covers data definition, retrieval, aggregation, joins, and subqueries.
+-- Data Source: 
+-------------------------------------------------------------------------------
 
+-- Phase 1: Data Definition (The Setup)
+-- Creating the core tables to house the Kaggle CSV data.
